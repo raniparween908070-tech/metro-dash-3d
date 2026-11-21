@@ -1,0 +1,6 @@
+{
+  "name": "Metro Dash 3D",
+  "description": "3D endless metro runner game with 1000 stages, custom characters, power-ups, missions, shop, and persistent local progress.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
