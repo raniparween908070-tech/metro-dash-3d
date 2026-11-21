@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Metro Dash 3D</string>
+    <string name="game_title">METRO DASH 3D</string>
+    <string name="game_subtitle">3D ENDLESS RAILWAY RUNNER</string>
+    <string name="btn_play">PLAY STAGE</string>
+    <string name="btn_stages">1000 STAGES</string>
+    <string name="btn_characters">RUNNERS</string>
+    <string name="btn_shop">SHOP</string>
+    <string name="btn_missions">MISSIONS</string>
+    <string name="btn_daily">DAILY</string>
+    <string name="btn_settings">SETTINGS</string>
+    <string name="btn_help">HELP</string>
+    <string name="btn_privacy">PRIVACY</string>
+    <string name="support_email">support@metrodashrunner.app</string>
+</resources>
